@@ -1,0 +1,37 @@
+main {
+    background-color: white;
+    border-radius: 10px;
+    width: 1200px;
+    margin: auto;
+    padding: 40px;
+}
+
+
+h4 {
+    margin: 20px 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #002775;
+    font-size: 25px;
+    text-align: left;
+}
+
+th {
+    background-color: #002775;
+    color: white;
+}
+
+.nome_usuario {
+    font-size: 25px;    
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr a {
+    color: #002775;
+}

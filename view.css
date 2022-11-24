@@ -1,0 +1,45 @@
+main {
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    padding: 40px;
+}
+
+.voltar {
+    color: rgba(0, 136, 169, 1);
+}
+
+form div {
+    border: solid 1px black;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+form div input {
+    width: 500px;
+    height: 40px;
+    border: none;
+    font-size: 22px;
+}
+
+form div input:focus {
+    outline: none;
+}
+
+form div textarea {
+    width: 500px;
+    height: 170px;
+    border: none;
+    margin-top: 5px;
+}
+
+form div textarea:focus {
+    outline: none;
+}
+
+.botao-enviar {
+    margin-top: 10px;
+}
+
